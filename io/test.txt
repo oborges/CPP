@@ -1,0 +1,7 @@
+There were 5 arguments to this program.
+They are: 
+./outputarguments
+olavo
+borges
+de
+oliveira
